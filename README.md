@@ -5,7 +5,8 @@
 
   <!-- DeepSeek Badge -->
   <a href="https://huggingface.co/deepseek-ai/deepseek-coder-14b-instruct">
-    <img src="https://img.shields.io/badge/DeepSeek-R1%2014B-brightgreen?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3OEQ0IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjY0IiBjeT0iNjQiIHI9IjY0Ii8+PC9zdmc+" alt="DeepSeek">
+    <img src="https://i.imgur.com/EgOQVRn.png" alt="DeepSeek" height="20">
+
   </a>
 
   <!-- Python Badge -->
