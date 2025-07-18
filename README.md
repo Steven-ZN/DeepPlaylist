@@ -11,7 +11,7 @@ DeepPlaylist 是一个基于 DeepSeek 模型和 QQ 音乐 API 的自动歌单分
 ## 特点
 
 * 全流程本地化运行，无需联网调用大模型
-* 基于 GPT 语义理解，实现高质量标签归类
+* 基于 DeepSeek 语义理解，实现高质量标签归类
 * 自定义 prompt 和分类变量，适配任意标签体系
 * 可自动创建分类歌单并上传到 QQ 音乐
 
@@ -43,7 +43,7 @@ python main.py
 python classification_deepseek.py
 ```
 
-该脚本会自动读取 liked\_songs.csv，调用本地 DeepSeek 模型生成标签，输出为 `classified_songs.csv`。
+自动读取 liked\_songs.csv，调用本地 DeepSeek 模型生成标签，输出为 `classified_songs.csv`。
 
 ### 3. 上传&自动分类
 
@@ -51,12 +51,12 @@ python classification_deepseek.py
 python upload.py
 ```
 
-该脚本会根据 `classified_songs.csv` 中的标签创建对应歌单并上传。
+根据 `classified_songs.csv` 中的标签创建对应歌单并上传。
 
 ## 结构
 
 * `main.py`：登录账号并下载喜欢的歌曲
-* `classification_deepseek.py`：通过 DeepSeek 模型进行标签生成
+* `classification_deepseek.py`：通过 DeepSeek 模型进行json生成
 * `upload.py`：创建并上传分类歌单
 
 ## 技术栈
