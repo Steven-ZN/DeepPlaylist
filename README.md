@@ -1,7 +1,7 @@
 <div align="center">
 
   <!---->
-  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=基于DeepSeek的QQ音乐歌单分类器&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_logo.svg&pattern=Overlapping%20Hexagons&theme=Auto" />
+  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=基于DeepSeek的QQ音乐歌单分类器&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_log.svg&pattern=Overlapping%20Hexagons&theme=Auto" />
 
 
   <p align="center">
