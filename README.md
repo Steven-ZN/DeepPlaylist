@@ -4,7 +4,9 @@
 
 > [!IMPORTANT]
 > 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途
+> 
 > 本仓库依赖 [luren-dc/QQMusicApi](https://github.com/luren-dc/QQMusicApi) 实现登录和歌曲信息获取
+> 
 > **音乐平台不易，请尊重版权，支持正版。**
 
 ## 简介
