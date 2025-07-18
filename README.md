@@ -1,3 +1,30 @@
+<div align="center">
+  <a>
+    <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=基于DeepSeek的QQ音乐歌单分类器&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fy.qq.com%2Fmediastyle%2Fmod%2Fmobile%2Fimg%2Flogo.svg&pattern=Overlapping%20Hexagons&theme=Auto">
+  </a>
+
+  <!-- DeepSeek Badge -->
+  <a href="https://huggingface.co/deepseek-ai/deepseek-coder-14b-instruct">
+    <img src="https://img.shields.io/badge/DeepSeek-R1%2014B-brightgreen?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3OEQ0IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjY0IiBjeT0iNjQiIHI9IjY0Ii8+PC9zdmc+" alt="DeepSeek">
+  </a>
+
+  <!-- Python Badge -->
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.10|3.11|3.12-blue?logo=python" alt="Python">
+  </a>
+
+  <!-- License -->
+  <a href="https://github.com/Steven-ZN/DeepPlaylist?tab=MIT-1-ov-file">
+    <img src="https://img.shields.io/github/license/Steven-ZN/DeepPlaylist" alt="GitHub license">
+  </a>
+
+  <!-- Stars -->
+  <a href="https://github.com/Steven-ZN/DeepPlaylist/stargazers">
+    <img src="https://img.shields.io/github/stars/Steven-ZN/DeepPlaylist?color=yellow&label=Github%20Stars" alt="STARS">
+  </a>
+
+
+</div>
 
 
 
