@@ -1,26 +1,18 @@
 <div align="center">
-  <!-- 巨型图 -->
-  <img src="https://raw.githubusercontent.com/Steven-ZN/DeepPlaylist/main/assets/809ad77f-16bc-4f2a-be32-66ebf68f02a1.png" alt="Logo" style="max-width: 100%; height: auto;" width="500"/>
+  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EDeepSeek%E7%9A%84QQ%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E5%88%86%E7%B1%BB%E5%99%A8&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_logo.png&logoHeight=240&pattern=Overlapping%20Hexagons&theme=Auto" />
 
-  <h1>DeepPlaylist</h1>
-  <p>基于 DeepSeek 的 QQ 音乐歌单分类器</p>
-
-  <!-- 徽章区域 -->
-  <a href="https://huggingface.co/deepseek-ai/deepseek-coder-14b-instruct">
-    <img src="https://raw.githubusercontent.com/Steven-ZN/DeepPlaylist/main/assets/deepseek-badge.svg" alt="DeepSeek" height="28"/>
-  </a>
-
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.10|3.11|3.12-blue?logo=python" alt="Python" />
-  </a>
-
-  <a href="https://github.com/Steven-ZN/DeepPlaylist?tab=MIT-1-ov-file">
-    <img src="https://img.shields.io/github/license/Steven-ZN/DeepPlaylist" alt="License" />
-  </a>
-
-  <a href="https://github.com/Steven-ZN/DeepPlaylist/stargazers">
-    <img src="https://img.shields.io/github/stars/Steven-ZN/DeepPlaylist?color=yellow&label=GitHub%20Stars" alt="Stars" />
-  </a>
+  <p>
+    <img src="./assets/deepseek.png" alt="DeepSeek" height="28"/>
+    <a href="https://www.python.org">
+      <img src="https://img.shields.io/badge/Python-3.10|3.11|3.12-blue?logo=python" alt="Python">
+    </a>
+    <a href="https://github.com/Steven-ZN/DeepPlaylist?tab=MIT-1-ov-file">
+      <img src="https://img.shields.io/github/license/Steven-ZN/DeepPlaylist" alt="License">
+    </a>
+    <a href="https://github.com/Steven-ZN/DeepPlaylist/stargazers">
+      <img src="https://img.shields.io/github/stars/Steven-ZN/DeepPlaylist?color=yellow&label=GitHub%20Stars" alt="Stars">
+    </a>
+  </p>
 </div>
 
 
