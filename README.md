@@ -68,19 +68,27 @@ python classification_deepseek.py
 
 自动读取 liked\_songs.csv，调用本地 DeepSeek 模型生成标签，输出为 `classified_songs.csv`。
 
-### 3. 上传&自动分类
+### 3. 自动分类检查缺失项&调用deepseek补全
 
 ```bash
-python upload.py
+python fix_classified_songs.py
 ```
 
-根据 `classified_songs.csv` 中的标签创建对应歌单并上传。
-
+根据 `classified_songs.csv` 中的分类内容，检查分类为空或被deepseek错误填写（如“-”）的内容，进行补全修复。
 ## 结构
 
 * `main.py`：登录账号并下载喜欢的歌曲
 * `classification_deepseek.py`：通过 DeepSeek 模型进行json生成
 * `upload.py`：创建并上传分类歌单
+
+### 4. 上传&自动分类
+
+```bash
+python upload.py
+```
+
+根据修复后的 `classified_songs.csv` 中的标签创建对应歌单并上传。
+
 
 ## 技术栈
 
