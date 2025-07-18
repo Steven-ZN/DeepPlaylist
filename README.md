@@ -1,29 +1,24 @@
 <div align="center">
   <a>
-    <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EDeepSeek%E7%9A%84QQ%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E5%88%86%E7%B1%BB%E5%99%A8&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fy.qq.com%2Fmediastyle%2Fmod%2Fmobile%2Fimg%2Flogo.svg&pattern=Overlapping%20Hexagons&theme=Auto" />
+    <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EDeepSeek%E7%9A%84QQ%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E5%88%86%E7%B1%BB%E5%99%A8&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_logo.png&pattern=Overlapping%20Hexagons&theme=Auto" />
   </a>
 
-  <!-- DeepSeek badge -->
   <a href="https://huggingface.co/deepseek-ai/deepseek-coder-14b-instruct">
-    <img src="https://i.imgur.com/EgOQVRn.png" alt="DeepSeek" height="20" />
+    <img src="https://raw.githubusercontent.com/Steven-ZN/DeepPlaylist/main/assets/deepseek-badge.svg" alt="DeepSeek" height="20" />
   </a>
 
-  <!-- Python badge -->
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.10|3.11|3.12-blue?logo=python" alt="Python" />
   </a>
 
-  <!-- License -->
   <a href="https://github.com/Steven-ZN/DeepPlaylist?tab=MIT-1-ov-file">
     <img src="https://img.shields.io/github/license/Steven-ZN/DeepPlaylist" alt="License" />
   </a>
 
-  <!-- Stars -->
   <a href="https://github.com/Steven-ZN/DeepPlaylist/stargazers">
     <img src="https://img.shields.io/github/stars/Steven-ZN/DeepPlaylist?color=yellow&label=GitHub%20Stars" alt="Stars" />
   </a>
 </div>
-
 
 
 
