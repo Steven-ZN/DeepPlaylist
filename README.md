@@ -98,7 +98,7 @@ python upload.py
 
 ## 贡献
 
-欢迎提交 PR 与 Issue，鼓励任何形式的改进反馈。
+欢迎提交 PR 与 Issue。
 
 
 ## License
