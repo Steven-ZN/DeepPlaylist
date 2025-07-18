@@ -2,7 +2,7 @@
 
   <!---->
 <p align="center">
-  <img src="assets/deepplaylist_banner.png" alt="DeepPlaylist Banner" width="100%">
+  <img src="assets/deepplaylist_banner1.png" alt="DeepPlaylist Banner" width="100%">
 </p>
 
   <p align="center">
