@@ -29,7 +29,12 @@ pip install qqmusic-api-python
 确保本地安装并运行 Ollama，并已加载 deepseek 模型：
 
 ```bash
+# 下载 DeepSeek R1 14B 模型（请确保显存充足，建议16GB以上）
+ollama pull deepseek-r1:14b
+
+# 启动模型服务
 ollama run deepseek-r1:14b
+
 ```
 
 ## 使用
