@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EDeepSeek%E7%9A%84QQ%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E5%88%86%E7%B1%BB%E5%99%A8&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_logo.png&logoHeight=240&pattern=Overlapping%20Hexagons&theme=Auto" />
+  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EDeepSeek%E7%9A%84QQ%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95%E5%88%86%E7%B1%BB%E5%99%A8&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_logo.png&logoHeight=1240&pattern=Overlapping%20Hexagons&theme=Auto" />
 
   <p>
     <img src="./assets/deepseek.png" alt="DeepSeek" height="28"/>
