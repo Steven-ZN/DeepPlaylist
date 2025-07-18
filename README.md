@@ -1,8 +1,9 @@
 <div align="center">
 
   <!---->
-  <img src="https://socialify.git.ci/Steven-ZN/DeepPlaylist/image?name=1&description=1&descriptionEditable=基于DeepSeek的QQ音乐歌单分类器&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSteven-ZN%2FDeepPlaylist%2Fmain%2Fassets%2Fcombined_log.svg&pattern=Overlapping%20Hexagons&theme=Auto" />
-
+<p align="center">
+  <img src="assets/deepplaylist_banner.png" alt="DeepPlaylist Banner" width="70%">
+</p>
 
   <p align="center">
   <a href="https://huggingface.co/deepseek-ai/deepseek-coder-14b-instruct"><img src="https://img.shields.io/badge/DeepSeek-R1%2014B-0078D4?logo=https://raw.githubusercontent.com/Steven-ZN/DeepPlaylist/main/assets/deepseek.png" alt="DeepSeek" /></a>
